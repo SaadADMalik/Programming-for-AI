@@ -1,0 +1,51 @@
+ID,Area,City,Restaurant Price,Avg Rating,Total Rating,Food Item,Food Type,Delivery Time,Review
+1,Downtown,New York,15.99,4.5,320,Burger,Fast Food,30 min,Delicious and juicy!
+2,Uptown,Chicago,12.50,4.2,210,Pizza,Italian,40 min,Authentic and tasty!
+3,Midtown,Los Angeles,18.00,4.7,400,Sushi,Japanese,50 min,Fresh and high quality!
+4,Suburbs,Miami,10.99,3.9,150,Taco,Mexican,25 min,Spicy and flavorful!
+5,City Center,San Francisco,22.00,4.8,500,Steak,American,60 min,Perfectly cooked!
+6,Riverside,Seattle,14.75,4.3,290,Pasta,Italian,35 min,Rich and creamy!
+7,Old Town,Denver,9.99,3.8,140,Hot Dog,Fast Food,20 min,Good but small portion.
+8,Beachside,San Diego,16.25,4.6,350,Seafood Platter,Seafood,45 min,Very fresh seafood!
+9,Chinatown,Boston,13.50,4.4,280,Dumplings,Chinese,30 min,Soft and tasty!
+10,Downtown,Houston,11.99,3.7,180,BBQ Ribs,American,55 min,Smoky and tender!
+11,City Center,Philadelphia,17.25,4.5,320,Biryani,Indian,40 min,Aromatic and delicious!
+12,Market Street,Las Vegas,19.50,4.8,450,Lobster Roll,Seafood,50 min,Absolutely fantastic!
+13,Financial District,San Francisco,15.99,4.3,310,Ramen,Japanese,35 min,Flavorful broth!
+14,Historic District,Washington DC,14.25,4.1,260,Shawarma,Mediterranean,30 min,Juicy and tasty!
+15,Suburbs,Dallas,10.50,3.9,170,Fried Chicken,Southern,25 min,Crispy and well seasoned!
+16,Central Park,New York,13.99,4.4,290,Pad Thai,Thai,40 min,Balanced flavors!
+17,City Center,Atlanta,12.75,4.2,220,Waffles & Chicken,Southern,30 min,Perfect sweet-savory balance!
+18,West End,Portland,14.99,4.5,310,Vegan Bowl,Vegan,35 min,Healthy and filling!
+19,East Side,Austin,16.00,4.6,350,Brisket,BBQ,50 min,Tender and smoky!
+20,Downtown,Nashville,11.50,3.8,160,Hot Chicken,Southern,25 min,Spicy and crispy!
+21,Beachfront,Los Angeles,18.25,4.7,380,Poke Bowl,Hawaiian,45 min,Refreshing and flavorful!
+22,Old Quarter,New Orleans,10.99,4.0,190,Gumbo,Cajun,55 min,Rich and authentic!
+23,City Center,San Jose,13.50,4.3,270,Dim Sum,Chinese,40 min,Great variety and taste!
+24,Riverwalk,San Antonio,14.75,4.5,320,Fajitas,Mexican,30 min,Sizzling and delicious!
+25,Central,Dallas,12.25,4.1,230,Chili,Tex-Mex,35 min,Hearty and spicy!
+26,Westside,Phoenix,17.00,4.6,370,Carne Asada,Mexican,40 min,Well-seasoned and juicy!
+27,East District,Charlotte,10.75,3.9,180,Shrimp & Grits,Southern,50 min,Creamy and flavorful!
+28,Downtown,Detroit,11.99,4.0,200,Coney Dog,Fast Food,20 min,Classic taste!
+29,South Beach,Miami,16.50,4.5,340,Ceviche,Peruvian,35 min,Fresh and tangy!
+30,West Side,St. Louis,12.00,4.2,250,Toasted Ravioli,Italian,30 min,Crispy and cheesy!
+31,North End,Boston,14.25,4.3,280,Lobster Bisque,Seafood,45 min,Rich and creamy!
+32,Downtown,Minneapolis,13.75,4.4,260,Juicy Lucy,American,25 min,Cheesy and juicy!
+33,Old Town,Columbus,11.50,3.9,170,Perogies,Polish,40 min,Soft and flavorful!
+34,Central,Orlando,14.50,4.5,310,Cuban Sandwich,Cuban,30 min,Crunchy and flavorful!
+35,Historic,Charleston,10.25,3.8,160,Shrimp Po'Boy,Southern,35 min,Crispy and fresh!
+36,Beachfront,Honolulu,19.99,4.7,410,Luau Pork,Hawaiian,50 min,Tender and smoky!
+37,Financial,Chicago,12.75,4.2,240,Deep Dish Pizza,Italian,40 min,Thick and cheesy!
+38,Downtown,Las Vegas,15.50,4.3,270,Philly Cheesesteak,American,35 min,Loaded with meat!
+39,Market District,Pittsburgh,13.25,4.1,250,Pierogi,Polish,30 min,Soft and cheesy!
+40,Central,Oklahoma City,10.99,3.9,180,Chicken Fried Steak,Southern,45 min,Crispy and juicy!
+41,Old Town,Salt Lake City,14.00,4.4,300,Elk Burger,American,50 min,Lean and flavorful!
+42,Riverside,Jacksonville,12.50,4.1,220,Fish Tacos,Mexican,30 min,Fresh and crispy!
+43,Suburbs,Indianapolis,11.25,3.8,190,Pork Tenderloin,Southern,25 min,Big portion!
+44,Central,Cincinnati,13.00,4.2,240,Cincinnati Chili,American,40 min,Unique and tasty!
+45,Downtown,Milwaukee,14.50,4.3,270,Cheese Curds,American,30 min,Crispy and gooey!
+46,West Side,Kansas City,17.75,4.6,380,Burnt Ends,BBQ,50 min,Rich and smoky!
+47,Financial,Tampa,16.25,4.5,330,Grouper Sandwich,Seafood,35 min,Light and flaky!
+48,Midtown,Memphis,12.75,4.2,230,Pulled Pork,BBQ,40 min,Tender and smoky!
+49,Southside,Raleigh,10.50,3.9,170,Chicken & Waffles,Southern,30 min,Sweet and savory!
+50,Downtown,Boise,13.99,4.4,280,Bison Burger,American,45 min,Juicy and lean!
